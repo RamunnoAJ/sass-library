@@ -7,4 +7,4 @@ This is a CSS library created using SASS which contains:
 • Cards
 • Grid system
 
-To test, clone the repository and run it with local server.
+To test, clone the repository, type ```npm i``` in the console and run it with local server.
